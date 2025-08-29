@@ -1,3 +1,11 @@
+> ### The Science Behind Our Platform
+>
+> Our Nearshore IT Co-Pilot™ is powered by a proprietary cognitive AI engine. We have published the high-level methodology for technical leaders who demand a higher standard of rigor and transparency.
+>
+> **[View the Axiom Cortex™ Technical Brief](https://teamstation-ai.github.io/Axiom-Cortex-Methodology/)**
+
+---
+
 # Stop Gambling on Talent. Start Engineering Your Team.
 
 Traditional nearshore is a keyword-matching lottery. You get a list of candidates, not a cohesive, high-performance team. This is the old way.
